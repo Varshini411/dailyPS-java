@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 import java.lang.Math;
-public class Main
+public class ArmstronNumber
 {
 static boolean isArmstrong (int n) 
   {
